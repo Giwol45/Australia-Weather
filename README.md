@@ -13,7 +13,7 @@ Tujuan utama dari alur kerja ini adalah menyiapkan data yang bersih dan siap pak
 
 * **Pengolahan Data:** `pandas`, `numpy`
 * **Visualisasi:** `matplotlib`, `seaborn`
-* **Machine Learning & Preprocessing:** `scikit-learn` (`StandardScaler`, `LabelEncoder`, `train_test_split`)
+* **Machine Learning & Preprocessing:** `scikit-learn` (`StandardScaler`, `LabelEncoder`)
 
 ##  Rangkuman Singkat
 
