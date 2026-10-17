@@ -9,7 +9,7 @@ Tujuan utama dari alur kerja ini adalah menyiapkan data yang bersih dan siap pak
 * **Ukuran Data Akhir:** 41.564 baris × 23 kolom
 * **Variabel Target:** `RainTomorrow` (Klasifikasi: Ya / Tidak)
 
-##  Pustaka Python yang Digunakan
+##  liblary Python yang Digunakan
 
 * **Pengolahan Data:** `pandas`, `numpy`
 * **Visualisasi:** `matplotlib`, `seaborn`
